@@ -2,6 +2,7 @@
 __pycache__/
 .mypy_cache/
 screenshots/
+app/__pycache__
 
 sql_webshot_app.db
 webshot_app.log
