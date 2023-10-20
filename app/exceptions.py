@@ -1,0 +1,2 @@
+class ScreenshotEntryExists(Exception):
+    pass

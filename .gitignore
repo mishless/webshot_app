@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.mypy_cache/
+screenshots/
+
+sql_webshot_app.db
+webshot_app.log
